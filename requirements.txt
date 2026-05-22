@@ -1,0 +1,28 @@
+# Deep learning
+torch
+torchvision
+tensorboard
+
+# Scientific computing
+numpy
+scipy
+pandas
+matplotlib
+Pillow
+opencv-python
+numba
+psutil
+
+# Geospatial processing
+geopandas
+rasterio
+shapely
+pyproj
+fiona
+rtree
+
+# Utilities
+PyYAML
+termcolor
+progress
+requests
