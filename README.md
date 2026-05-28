@@ -121,3 +121,7 @@ python munich_pv_evaluation.py
 - Keep the original directory structure unchanged, because several scripts use relative imports and fixed data paths.
 - Large datasets, model checkpoints, generated masks, GeoTIFF files, and PVGIS cache files are not included in this README.
 - Some PV estimation scripts call the PVGIS API through `requests`; internet access is required when cached radiation data are unavailable.
+
+## Citations
+
+> Junsheng Yao, Sebastian Krapf, Qingyu Li. Multimodal Deep Learning with Aerial Imagery and nDSM for True-Slope-Aware Rooftop Photovoltaic Potential Estimation. ISPRS Journal of Photogrammetry and Remote Sensing, 2026.
