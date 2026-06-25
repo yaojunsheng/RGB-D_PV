@@ -122,6 +122,10 @@ python munich_pv_evaluation.py
 - Large datasets, model checkpoints, generated masks, GeoTIFF files, and PVGIS cache files are not included in this README.
 - Some PV estimation scripts call the PVGIS API through `requests`; internet access is required when cached radiation data are unavailable.
 
+## Acknowledgements
+
+We gratefully acknowledge the RID1 dataset and codebase provided by [TUMFTM/RID](https://github.com/TUMFTM/RID), as well as the RID2 dataset released on [Zenodo](https://zenodo.org/records/14062580). These resources provided important foundations for the RID1-Depth and RID2-Depth experiments in SolarFusion.
+
 ## Citations
 
 > Junsheng Yao, Sebastian Krapf, Qingyu Li. Multimodal Deep Learning with Aerial Imagery and nDSM for True-Slope-Aware Rooftop Photovoltaic Potential Estimation. ISPRS Journal of Photogrammetry and Remote Sensing, 2026.
