@@ -42,7 +42,7 @@ PyTorch should match your local CUDA version. If GPU training fails after instal
 Dataset download link:
 
 ```text
-https://1drv.ms/f/c/9108d2bd19b42862/IgCOpCc3sH8MQovOQ7udjt6IAZoEAJqQrhA5-Vx4dobtcD0?e=rRpRNk
+[https://1drv.ms/f/c/9108d2bd19b42862/IgCOpCc3sH8MQovOQ7udjt6IAZoEAJqQrhA5-Vx4dobtcD0?e=rRpRNk](https://cuhko365-my.sharepoint.com/:f:/g/personal/225010094_link_cuhk_edu_cn/IgDiYukp7oH5TpDqdAHmxQttAb9Ahdzk-CnnY6282Lqq34M?e=R7eIo9)
 ```
 
 The training code expects the dataset root to contain a `roof` directory. By default, `FusionPIRNet/roof_train_dguide_full.py` uses `--dataroot ./data`, so run it from inside `FusionPIRNet/`.
